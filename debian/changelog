@@ -1,3 +1,9 @@
+am335x-pru-package (0.20170710-1~l4m4re+1) wheezy; urgency=low
+
+  * Synced with upstream git repository
+
+ -- Arend Lammertink <lamare@gmail.com>  Mon, 10 Jul 2017 11:02:22 +0200
+
 am335x-pru-package (0.20160522-1~l4m4re+20160522+1) wheezy; urgency=low
 
   * Build for beagle.tuks.nl repos
