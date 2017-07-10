@@ -1,7 +1,7 @@
 Source: am335x-pru-package
 Section: misc
 Priority: extra
-Maintainer: Vagrant Cascadian <vagrant@debian.org>
+Maintainer: Arend Lammertink <lamare@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://github.com/beagleboard/am335x_pru_package
