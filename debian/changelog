@@ -1,0 +1,33 @@
+am335x-pru-package (0.20160522-1~l4m4re+20160522+1) wheezy; urgency=low
+
+  * Build for beagle.tuks.nl repos
+  * Applied patch for freebasic support
+  * Added man page with markdown ronn source
+  * Update to beaglebone git master version (extra example)
+  * Full source in l4m4re github fork
+
+ -- Arend Lammertink <lamare@gmail.com>  Sun, 22 May 2016 13:29:07 +0000
+
+am335x-pru-package (0.20141125-1~bpo70+20141201+1) wheezy; urgency=low
+
+  * Rebuild for repos.rcn-ee.net
+
+ -- Robert Nelson <robertcnelson@gmail.com>  Mon, 01 Dec 2014 10:50:26 -0600
+
+am335x-pru-package (0.20141125-1~bpo70+20141125+1) wheezy; urgency=low
+
+  * Rebuild for repos.rcn-ee.net
+
+ -- Robert Nelson <robertcnelson@gmail.com>  Tue, 25 Nov 2014 08:37:04 -0600
+
+am335x-pru-package (0.20140817-1~bpo70+20141006+1) wheezy; urgency=low
+
+  * Rebuild for repos.rcn-ee.net
+
+ -- Robert Nelson <robertcnelson@gmail.com>  Mon, 06 Oct 2014 10:48:21 -0500
+
+am335x-pru-package (0.20140227-1) UNRELEASED; urgency=low
+
+  * Initial upload.
+
+ -- Vagrant Cascadian <vagrant@debian.org>  Thu, 27 Feb 2014 09:45:39 -0800
